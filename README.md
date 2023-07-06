@@ -533,6 +533,13 @@ This API is used to Check for service application updates
 
 This API doesn't need any request parameters
 
+## Java/Kotlin
+
+[https://github.com/AtifQEzetap/razorpay-pos-payment-sdk](https://github.com/AtifQEzetap/razorpay-pos-payment-sdk)
+
+## Flutter
+
+https://github.com/AtifQEzetap/razorpay-pos-payment-flutter-sdk
 
 ## Support
 
