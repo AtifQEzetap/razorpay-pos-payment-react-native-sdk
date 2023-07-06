@@ -67,7 +67,7 @@ The first API that needs to be integrated with is the “Initialize” API, this
 Below is the request code for API with parameters
 
 <details>
-<summary>React Native Code</summary>
+<summary>Code Snippet</summary>
 
 ```javascript
 import RNEzetapSdk from 'react-native-ezetap-sdk';
@@ -122,7 +122,7 @@ Ezetap provides a way to send e-receipts to customers. You can pass mobile, emai
 Below is the request code for API with parameters
 
 <details>
-<summary>React Native Code</summary>
+<summary>Code Snippet</summary>
 
 ```javascript
 import RNEzetapSdk from 'react-native-ezetap-sdk';
@@ -157,7 +157,7 @@ Razorpay provides a way to send service on request to customers. You can pass me
 Below is the request code for API with parameters
 
 <details>
-<summary>React Native Code</summary>
+<summary>Code Snippet</summary>
 
 ```javascript
 import RNEzetapSdk from 'react-native-ezetap-sdk';
@@ -191,7 +191,7 @@ Razorpay provides a way to search transaction. You can pass agent name and save 
 Below is the request code for API with parameters
 
 <details>
-<summary>React Native Code</summary>
+<summary>Code Snippet</summary>
 
 ```javascript
 import RNEzetapSdk from 'react-native-ezetap-sdk';
@@ -220,7 +220,7 @@ This API is used to get the transaction details with reference.
 
 Below is the request code for API with parameters
 <details>
-<summary>React Native Code</summary>
+<summary>Code Snippet</summary>
 
 ```javascript
 import RNEzetapSdk from 'react-native-ezetap-sdk';
@@ -285,7 +285,7 @@ Below is the request code for API with parameters
 
 <details>
 
-<summary>React Native Code</summary>
+<summary>Code Snippet</summary>
 
 ```javascript
 import RNEzetapSdk from 'react-native-ezetap-sdk';
@@ -313,7 +313,7 @@ Below is the request code for API with parameters
 
 <details>
 
-<summary>React Native Code</summary>
+<summary>Code Snippet</summary>
 
 ```javascript
 import RNEzetapSdk from 'react-native-ezetap-sdk';
@@ -341,7 +341,7 @@ Below is the request code for API with parameters
 
 <details>
 
-<summary>React Native Code</summary>
+<summary>Code Snippet</summary>
 
 ```javascript
 import RNEzetapSdk from 'react-native-ezetap-sdk';
@@ -404,7 +404,7 @@ Below is the request code for API with parameters
 
 <details>
 
-<summary>React Native Code</summary>
+<summary>Code Snippet</summary>
 
 ```javascript
 import RNEzetapSdk from 'react-native-ezetap-sdk';
@@ -432,7 +432,7 @@ Below is the request code for API with parameters
 
 <details>
 
-<summary>React Native Code</summary>
+<summary>Code Snippet</summary>
 
 ```javascript
 import RNEzetapSdk from 'react-native-ezetap-sdk';
@@ -468,7 +468,7 @@ This API can be used to stop the payment for the list of transactions. You need 
 Below is the request code for API with parameters
 <details>
 
-<summary>React Native Code</summary>
+<summary>Code Snippet</summary>
 
 ```javascript
 import RNEzetapSdk from 'react-native-ezetap-sdk';
@@ -505,7 +505,7 @@ Below is the request code for API with parameters
 
 <details>
 
-<summary>React Native Code</summary>
+<summary>Code Snippet</summary>
 
 ```javascript
 import RNEzetapSdk from 'react-native-ezetap-sdk';
